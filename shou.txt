@@ -1,4 +1,7 @@
 git operation
 modify
 
+
 add some things
+
+reduce some things
